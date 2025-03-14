@@ -1,2 +1,2 @@
-# TourismWeb
-Tourism Website for hackathon
+🌍 GASSGo.com – Go Anywhere, See Spectacular! 🚀
+Dreaming of your next adventure? GASSGo.com is your ultimate travel companion! Get real-time insights on travel costs, weather conditions, must-visit attractions, and rental prices—all in one place. With our AI-powered travel partner, you’ll receive personalized recommendations, journey time estimates, and hidden gems to explore. Say goodbye to travel confusion and hello to spectacular experiences with GASSGo.com! 🌟✈️
